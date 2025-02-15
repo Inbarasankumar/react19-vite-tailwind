@@ -12,6 +12,7 @@ This is a template repository where you have tailwind and vite setup.
     **You're good to go 🚀**
 
 if you are unable to run on Mac add in a package.json under scripts section ```dev: "vite --host 0.0.0.0 --port 5173"``` line next 
+
 Note: 
 1. if you are not getting the tailwind config intellisense, then try to install the 'Tailwind CSS Intellisense'
 2. Added SVC
