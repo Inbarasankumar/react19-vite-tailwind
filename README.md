@@ -8,7 +8,8 @@ This is a template repository where you have tailwind and vite setup.
 2. Give a preferred name for your repository.
 3. Do npm i/ yarn i
 4. npm run dev
-    You're good to go 🚀
+   
+    **You're good to go 🚀**
 
 if you are unable to run on Mac add in a package.json under scripts section ```dev: "vite --host 0.0.0.0 --port 5173"``` line next 
 Note: 
